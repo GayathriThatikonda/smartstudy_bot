@@ -34,8 +34,8 @@ Converts long study notes into short bullet points.
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/GayathriThatikonda/smartstudy_bot.git
 cd smartstudy_bot
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.tx
